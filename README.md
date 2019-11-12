@@ -2,4 +2,4 @@
 Projeto de HTML e CSS3
 
 
-Link para a pégina: https://axisdigital.github.io/AnnaBella.github.io/
+Link para a página: https://axisdigital.github.io/AnnaBella.github.io/
